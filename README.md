@@ -5,9 +5,9 @@
 <br />
 
 <div align="center">
-  <a href="https://your-portfolio-link.com">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/your-linkedin">💼 LinkedIn</a> •
-  <a href="mailto:your.email@example.com">📧 Email</a>
+  <a href="[https://your-portfolio-link.com](https://neerajxcode.netlify.app/)">🌐 Portfolio</a> •
+  <a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/neeraj-jaiswal-146942405/)">💼 LinkedIn</a> •
+  <a href="mailto:neerajjaiswal989@gmail.com">📧 Email</a>
 </div>
 
 ---
