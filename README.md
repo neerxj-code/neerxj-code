@@ -5,9 +5,9 @@
 <br />
 
 <div align="center">
-  <a href="https://neerajxcode.netlify.app/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/neeraj-jaiswal-146942405/">💼 LinkedIn</a> •
-  <a href="mailto:neerajjaiswal989@gmail.com">📧 Email</a>
+  <a href="https://neerajxcode.netlify.app/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/neeraj-jaiswal-146942405/" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:neerajjaiswal989@gmail.com" target="_blank">📧 Email</a>
 </div>
 
 ---
