@@ -1,101 +1,273 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:61DAFB&height=220&section=header&text=Hi%20there%2C%20I'm%20Neeraj%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20crafting%20modern%20web%20experiences&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:38BDF8&height=120&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=React+%2B+Tailwind+CSS;Building+Sleek%2C+Fast+%26+Responsive+UIs;Always+Shipping%2C+Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+# 👋 Hey, I'm Neeraj
+
+### Frontend Developer · React.js · JavaScript · Tailwind CSS
 
 <p>
-<a href="https://neerajxcode.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/neeraj-jaiswal-146942405/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:neerajjaiswal989@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=neerxj-code&style=for-the-badge&color=61dafb&label=Profile+Views" alt="Profile Views"/>
+  I build <strong>modern, responsive & interactive web experiences</strong><br/>
+  with a focus on clean UI, smooth animations and great user experience.
 </p>
+
+<br/>
+
+<a href="https://neerajxcode.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-0F172A?style=for-the-badge&labelColor=0F172A" />
+</a>
+<a href="https://www.linkedin.com/in/neeraj-jaiswal-146942405/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:neerajjaiswal989@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+
 
 </div>
 
-<br/>
+---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-- 💻 **Frontend Developer** who loves turning ideas into polished, responsive interfaces.
-- 🎨 Obsessed with UI/UX details — spacing, motion, and micro-interactions that feel *right*.
-- 🛠️ Currently building with **React**, **Next.js**, and **Tailwind CSS**.
-- 🌱 Exploring animation libraries, performance optimization, and clean architecture.
-- 📫 Reach me anytime — always open to interesting projects and collabs.
+I'm a **Frontend Developer** focused on turning ideas and designs into polished, responsive and interactive web experiences.
 
-<br/>
+I enjoy working at the intersection of **design + development**, where small details like spacing, typography, animations and micro-interactions make a product feel significantly better.
+
+```js
+const neeraj = {
+  role: "Frontend Developer",
+  location: "Chandigarh, India",
+
+  stack: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React.js",
+    "Tailwind CSS"
+  ],
+
+  currentlyLearning: [
+    "Next.js",
+    "Advanced React",
+    "GSAP",
+    "Performance Optimization"
+  ],
+
+  interests: [
+    "UI/UX",
+    "Web Animations",
+    "Responsive Design",
+    "Modern Web Development"
+  ],
+
+  goal: "Build products that look great and feel even better."
+};
+```
+
+---
+
+## ✨ What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 Modern Interfaces
+
+Responsive websites with clean layouts, thoughtful typography, and polished UI details.
+
+</td>
+<td width="50%">
+
+### ⚡ Interactive Experiences
+
+Smooth animations, transitions and micro-interactions that make interfaces feel alive.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📱 Responsive Websites
+
+Interfaces designed to work beautifully across desktop, tablet and mobile.
+
+</td>
+<td width="50%">
+
+### 🧩 React Applications
+
+Component-based applications with reusable architecture and clean state management.
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🛠️ Tech Stack
 
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### Animation & UI
+
+<p>
+<img src="https://skillicons.dev/icons?i=gsap,figma" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vite,vscode" />
+</p>
+
+---
+
+## 🧠 Currently Exploring
+
+```text
+React.js             ████████████████████  Advanced
+JavaScript           ██████████████████░░  Deepening
+Tailwind CSS         ████████████████████  Advanced
+GSAP                 ███████████████░░░░░  Learning
+Next.js              █████████████░░░░░░░  Learning
+TypeScript           ███████████░░░░░░░░░  Learning
+```
+
+I'm currently focused on becoming a stronger frontend engineer by improving:
+
+* ⚛️ Advanced React patterns
+* 🎬 GSAP & web animations
+* 🚀 Frontend performance
+* 📐 UI/UX implementation
+* 🧱 Scalable component architecture
+* 🌐 Modern React frameworks
+
+---
+
+# 🔥 Featured Projects
+
 <div align="center">
 
-**Languages & Frameworks**
+### 🛒 E-Commerce Product Dashboard
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+**React.js · REST API · Tailwind CSS**
 
-**Styling & UI**
+A dynamic e-commerce dashboard focused on real-world frontend functionality.
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+**Highlights**
 
-**Tools & Ecosystem**
+`Product Catalog` · `Search` · `Filtering` · `Sorting` · `API Integration` · `Cart State`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<a href="https://github.com/neerxj-code">
+  <img src="https://img.shields.io/badge/View%20Project-1E293B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### 🖥️ Personal Developer Portfolio
+
+**React.js · Tailwind CSS · GSAP**
+
+A cinematic personal portfolio designed to showcase frontend development, UI design and animation skills.
+
+**Highlights**
+
+`Responsive Design` · `GSAP Animations` · `Scroll Interactions` · `Custom Preloader` · `Interactive UI`
+
+<a href="https://neerajxcode.netlify.app/">
+  <img src="https://img.shields.io/badge/Live%20Portfolio-38BDF8?style=for-the-badge&logo=netlify&logoColor=black"/>
+</a>
 
 </div>
 
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=neerxj-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerxj-code&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=neerxj-code&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neerxj-code&theme=tokyo-night&hide_border=true" width="97%"/>
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=neerxj-code&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
-
-<br/>
+---
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/neerxj-code/neerxj-code/output/github-contribution-grid-snake.svg" width="100%"/>
+
+<picture>
+
+<source
+  media="(prefers-color-scheme: dark)"
+  srcset="https://raw.githubusercontent.com/neerxj-code/neerxj-code/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+  media="(prefers-color-scheme: light)"
+  srcset="https://raw.githubusercontent.com/neerxj-code/neerxj-code/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+  alt="GitHub Contribution Snake"
+  src="https://raw.githubusercontent.com/neerxj-code/neerxj-code/output/github-contribution-grid-snake.svg"
+  width="100%"
+/>
+
+</picture>
+
 </div>
 
-<br/>
+---
+
+## 💡 My Development Philosophy
+
+> **Build it clean. Make it responsive. Add motion where it matters.**
+
+I believe good frontend development isn't just about making something work.
+
+It's about creating experiences that are:
+
+**Simple · Fast · Accessible · Responsive · Beautiful**
+
+---
+
+## 🌱 2026 Goals
+
+* [ ] Become job-ready as a Frontend Developer
+* [ ] Build production-quality React applications
+* [ ] Deepen JavaScript fundamentals
+* [ ] Learn Next.js & TypeScript
+* [ ] Master GSAP animations
+* [ ] Contribute to open source
+* [ ] Build and ship consistently 🚀
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-### 💬 Let's Build Something Great Together
+I'm always interested in connecting with developers, designers and people building interesting products.
 
-<a href="https://neerajxcode.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Visit_My_Portfolio-61DAFB?style=for-the-badge&logo=vercel&logoColor=black" /></a>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:0F2027&height=120&section=footer" width="100%"/>
+<a href="https://neerajxcode.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-0F172A?style=for-the-badge&labelColor=0F172A" />
+</a>
+<a href="https://www.linkedin.com/in/neeraj-jaiswal-146942405/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:neerajjaiswal989@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### ⭐ If you like my work, consider giving my repositories a star!
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1E293B,100:0F172A&height=120&section=footer" width="100%"/>
 
 </div>
